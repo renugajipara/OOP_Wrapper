@@ -10,7 +10,7 @@ This project implements a structured class hierarchy consisting of:
 
 👩‍💻 Developer (Subclass)
 
-Built using Python 3.10+ with modern match-case control flow.
+
 
 📌 Project Overview
 
