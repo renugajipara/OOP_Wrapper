@@ -29,6 +29,7 @@ This application allows users to:
 The system demonstrates how inheritance and polymorphism work in practical object modeling.
 
 🏗 Class Architecture
+
 🔹 1️⃣ Employee (Base Class)
 
 Attributes
@@ -79,14 +80,20 @@ Method Overriding (display())
 
 🧠 OOP Concepts Implemented
 Concept	Implementation in Project
+
 Encapsulation	Private attributes (__em_id, __salary)
+
 Inheritance	Manager(Employee) & Developer(Employee)
-Polymorphism	Overridden display() methods
+
+Polymorphism	Overridden display() 
+methods
 Abstraction	Controlled access via getters/setters
-Destructor	__del__() method
-Type Checking	issubclass() usage
-Modern Control Flow	Python 3.10 match-case
+Destructor	__del__() 
+method
+Type Checking	issubclass()
+
 📊 Class Hierarchy Diagram
+
 classDiagram
 
 class Employee {
