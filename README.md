@@ -169,7 +169,7 @@ Add unit testing
 
 👩‍💻 Author
 
-RENU
+RENSEE
 Aspiring Python Developer
 Focused on mastering Object-Oriented Programming and clean system architecture.
 
